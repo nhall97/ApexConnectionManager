@@ -2,14 +2,14 @@
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app",
         {
-            "state": "n",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590239759301,
             "changeTime": 1590239793641,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590239759301,
             "changeTime": 1590239759301,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1590242596321,
-            "changeTime": 1590242596321,
-            "contentHash": "a99b08e3d2d6efd88c4b56f5f01b594674d06db0"
+            "modifiedTime": 1590249687303,
+            "changeTime": 1590249687303,
+            "contentHash": "732f364b6d46ff284ab92e47c02808a60a3307a3"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590239759301,
             "changeTime": 1590239759301,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/lwc",
         {
-            "state": "n",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590239766721,
             "changeTime": 1590239766721,
             "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "/home/devanuze/Documents/Github/ConnectionManager",
         {
-            "state": "n",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590239830200,
             "changeTime": 1590239830200,
             "contentHash": "c4dd6d69f6bea309b6f342abc72cd51d68b58227",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,209 +90,235 @@
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/ConnectionManager__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/ConnectionManager__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 330,
             "modifiedTime": 1590242596305,
             "changeTime": 1590242596305,
-            "contentHash": "7ef3c6347ae43120560ef350d77249443ff9d188"
+            "contentHash": "7ef3c6347ae43120560ef350d77249443ff9d188",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/DevEndpoint__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/DevEndpoint__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1590242596305,
             "changeTime": 1590242596305,
-            "contentHash": "1a314f7fcd627e712ae21f11d42e835e13108cd8"
+            "contentHash": "1a314f7fcd627e712ae21f11d42e835e13108cd8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/ProdEndpoint__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/ProdEndpoint__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 341,
             "modifiedTime": 1590242596306,
             "changeTime": 1590242596306,
-            "contentHash": "08fb84c85fd065c2d80b3d0384a1a5fe93005d58"
+            "contentHash": "08fb84c85fd065c2d80b3d0384a1a5fe93005d58",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/QaEndpoint__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/QaEndpoint__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 337,
             "modifiedTime": 1590242596306,
             "changeTime": 1590242596306,
-            "contentHash": "b6bee58cae6814e66bd80336841a9db30fd78e8d"
+            "contentHash": "b6bee58cae6814e66bd80336841a9db30fd78e8d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/SitEndpoint__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/SitEndpoint__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 339,
             "modifiedTime": 1590242596306,
             "changeTime": 1590242596306,
-            "contentHash": "729953d08885d624194fcf74ca3d263c4d5ee9a7"
+            "contentHash": "729953d08885d624194fcf74ca3d263c4d5ee9a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/UatEndpoint__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields/UatEndpoint__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 340,
             "modifiedTime": 1590242596306,
             "changeTime": 1590242596306,
-            "contentHash": "f6adb69139bc743d1aa1979cae8a0d9deee3b8f0"
+            "contentHash": "f6adb69139bc743d1aa1979cae8a0d9deee3b8f0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/layouts/ConnectionManager__mdt-Connection Manager Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/layouts/ConnectionManager__mdt-Connection Manager Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2920,
             "modifiedTime": 1590242596318,
             "changeTime": 1590242596318,
-            "contentHash": "874692c585fc4154a6482dfe3b940f7991a2219c"
+            "contentHash": "874692c585fc4154a6482dfe3b940f7991a2219c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4743,
             "modifiedTime": 1590242596323,
             "changeTime": 1590242596323,
-            "contentHash": "4e6f28eae601ea1f49089bddd0f2c2914355c97d"
+            "contentHash": "4e6f28eae601ea1f49089bddd0f2c2914355c97d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4743,
             "modifiedTime": 1590242596329,
             "changeTime": 1590242596329,
-            "contentHash": "4e6f28eae601ea1f49089bddd0f2c2914355c97d"
+            "contentHash": "4e6f28eae601ea1f49089bddd0f2c2914355c97d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 19840,
             "modifiedTime": 1590242596344,
             "changeTime": 1590242596344,
-            "contentHash": "21f3a66c2d538ec5c32d924146fe3445bdd0b628"
+            "contentHash": "21f3a66c2d538ec5c32d924146fe3445bdd0b628",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5081,
             "modifiedTime": 1590242596349,
             "changeTime": 1590242596349,
-            "contentHash": "2d54c1c688d9137c1b58b04f685567e90d39ea85"
+            "contentHash": "2d54c1c688d9137c1b58b04f685567e90d39ea85",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590242596305,
             "changeTime": 1590242596305,
-            "contentHash": "09b6c2cae8b663f4df2145072d990a1296dd131d"
+            "contentHash": "09b6c2cae8b663f4df2145072d990a1296dd131d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590242596303,
             "changeTime": 1590242596303,
-            "contentHash": "e6d8ea89085c36f7ed72ab46f2a7c1b56d1d53e3"
+            "contentHash": "e6d8ea89085c36f7ed72ab46f2a7c1b56d1d53e3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/objects/ConnectionManager__mdt/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590242596306,
             "changeTime": 1590242596306,
-            "contentHash": "c849c606ce15de29fe65be252e08a855b2ba7b10"
+            "contentHash": "c849c606ce15de29fe65be252e08a855b2ba7b10",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590242596318,
             "changeTime": 1590242596318,
-            "contentHash": "15c9fe94391917b7a1ee346c8778cc368f428641"
+            "contentHash": "15c9fe94391917b7a1ee346c8778cc368f428641",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1590242596349,
             "changeTime": 1590242596349,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/customMetadata/ConnectionManager.Google.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/customMetadata/ConnectionManager.Google.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 905,
+            "modifiedTime": 1590249687306,
+            "changeTime": 1590249687306,
+            "contentHash": "36d0a8a1409247630518c0ae1c6f774d85f05b54"
+        }
+    ],
+    [
+        "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "/home/devanuze/Documents/Github/ConnectionManager/force-app/main/default/customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1590249687306,
+            "changeTime": 1590249687306,
+            "contentHash": "77237df9216cc0869f9b677bca7c331bda7da815"
         }
     ]
 ]

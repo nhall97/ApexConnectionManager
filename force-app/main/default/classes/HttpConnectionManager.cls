@@ -1,4 +1,4 @@
-public class ConnectionManager {
+public class HttpConnectionManager {
     public static String getMgdEndpoint(String rcd)
     {   
         return isProd() ? retrievePrd(rcd) : calcEndpoint(rcd);

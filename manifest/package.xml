@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
+        <members>ExampleHttpImpl</members>
+        <members>HttpConnectionManager</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexComponent</name>
+        <members>ConnectionManager__mdt.Google</members>
+        <name>customMetadata</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
+        <members>ConnectionManager__mdt-Connection Manager Layout</members>
+        <name>layouts</name>
     </types>
     <types>
         <members>*</members>

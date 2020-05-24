@@ -1,5 +1,5 @@
 public class ConnectionManager {
-    public static String manageConnection(String rcd)
+    public static String getMgdEndpoint(String rcd)
     {   
         return isProd() ? retrievePrd(rcd) : calcEndpoint(rcd);
     }

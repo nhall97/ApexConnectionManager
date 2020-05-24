@@ -24,5 +24,6 @@
         - Consider certificate management ensuring that the endpoint will use the correct certificate
         - Some kind of User Interface to display avialable connections via a easy access UI
         - Log the selection of the endpoint to the EventBus
+        - Investigate platform cache capabilties
     #Known Issues
         - No unit test coverage
